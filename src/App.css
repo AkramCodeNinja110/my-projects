@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.counter {
+  font-size: 5rem;
+  margin-bottom: 2rem;
+}
+
+button {
+  font-size: 2rem;
+  margin: 0 1rem;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #282c34;
+  color: white;
+  cursor: pointer;
+}
+
+.increment {
+  background-color: #61dafb;
+}
